@@ -1,0 +1,10 @@
+:root {
+    --color-white:#fff;
+}
+
+
+.fa-bars {
+      color: var(--color-white);
+} 
+
+
